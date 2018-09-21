@@ -7,32 +7,41 @@ Data
 Student Class:
 
 class Student {
+
 //instance variables:
+
 String firstName;
 String lastName;
 String student Number;
 int classNumber;
 String className;
 boolean fullTime;
+
 }
 
 Car Class:
 
 class Car {
+
 // instance variables:
+
 String makeModel;
 String color;
 String vin;
 boolean gas;
 int passenders;
+
 }
 
 Move Class:
+
 class Movie {
+
 String movieTitle;
 int yearRelease;
 String director;
 double budget;
+
 }
 
 Methods
