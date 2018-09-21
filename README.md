@@ -12,7 +12,7 @@ class Student {
 
 String firstName;
 String lastName;
-String student Number;
+String studentNumber;
 int classNumber;
 String className;
 boolean fullTime;
@@ -29,7 +29,7 @@ String makeModel;
 String color;
 String vin;
 boolean gas;
-int passenders;
+int passengers;
 
 }
 
