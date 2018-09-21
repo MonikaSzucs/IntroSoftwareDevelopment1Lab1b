@@ -4,7 +4,7 @@ lab 1a
 On this piece of apper, describe the data (instance variables, including data types) and behaviours (methods) that you would associate with the following classes. Choose very descriptive, unambiguous names. Including the expected IEtTeEr cASe too. Methods are naemd as verbs. Show your instructor when you are finished. When you rinstructor is satified your paper will be signed and you can move on to lab 1b.
 
 Data
-Student Class
+Student Class:
 
 class Student {
 //instance variables:
@@ -16,7 +16,8 @@ String className;
 boolean fullTime;
 }
 
-Car Class
+Car Class:
+
 class Car {
 // instance variables:
 String makeModel;
@@ -26,7 +27,7 @@ boolean gas;
 int passenders;
 }
 
-Move Class
+Move Class:
 class Movie {
 String movieTitle;
 int yearRelease;
@@ -35,7 +36,8 @@ double budget;
 }
 
 Methods
-Student Class
+Student Class:
+
 changeName()
 transferClass()
 getGPA()
@@ -43,11 +45,14 @@ withdraw()
 
 
 Methods
-Car Class
+Car Class:
+
 changeColor()
 removeSeats()
 
 Methods
+Movie Class:
+
 changeMovieTitle()
 changeBudget()
 
